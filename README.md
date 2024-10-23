@@ -1,0 +1,13 @@
+- 👋 Hi, I’m INDRESH NIHSAD
+- 👀 I’m interested MEARN stack devoloper from  india.
+- 🌱 I’m crunt learning  HTML|CSS|JAVASCRIPT
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+arjun-1224/arjun-1224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
