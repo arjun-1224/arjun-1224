@@ -1,5 +1,5 @@
-- 👋 Hi, I’m INDRESH NISHAD
+- 👋 Hi, I’M INDRESH NISHAD
 
 - 👀 I’m interested MEARN stack devoloper from  india.
 
-  - I’m crunt learning  HTML|CSS|JAVASCRIPT
+- I AM LEARN |HTML|CSS|JAVA SCRIPT|
